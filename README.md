@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BelmontReal
 - 👀 I’m interested in making many things.
-- 🌱 I’m currently learning how to succeed in batch scripting
+- 🌱 I’m currently learning how to succeed in HTML scripting
 - 💞️ I’m not looking to collaborate on anything right now.
 - 📫 How to reach me @Belmontgamesofficial On Gamejolt, BelmontReal@Proton.me
 
